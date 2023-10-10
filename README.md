@@ -118,3 +118,5 @@ Thanks to Aubio for his [YIN code](https://github.com/aubio/aubio/blob/master/sr
 
     npm install -D @types/node
     tsc
+    npm login
+    npm publish
