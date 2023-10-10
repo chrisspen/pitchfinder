@@ -1,5 +1,5 @@
 {
-  "name": "pitchfinder",
+  "name": "pitchfinder-low",
   "version": "2.3.2",
   "description": "A pitch-detection library for node and the browser",
   "main": "lib/index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peterkhayes/pitchfinder.git"
+    "url": "git+https://github.com/chrisspen/pitchfinder.git"
   },
   "keywords": [
     "pitch",
@@ -31,9 +31,9 @@
   "author": "Peter Hayes",
   "license": "GNU v3",
   "bugs": {
-    "url": "https://github.com/peterkhayes/pitchfinder/issues"
+    "url": "https://github.com/chrisspen/pitchfinder/issues"
   },
-  "homepage": "https://github.com/peterkhayes/pitchfinder#readme",
+  "homepage": "https://github.com/chrisspen/pitchfinder#readme",
   "devDependencies": {
     "@types/mocha": "^7.0.2",
     "@types/mz": "^2.7.0",
