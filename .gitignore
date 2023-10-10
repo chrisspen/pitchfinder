@@ -3,3 +3,5 @@ lib
 npm-debug.log
 yarn-error.log
 .vscode/
+*.out
+*.geany
