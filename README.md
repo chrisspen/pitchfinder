@@ -113,3 +113,8 @@ If you'd like a version that uses compiled C++ code and runs much faster, check 
 Several of these algorithms were ported from Jonas Six's excellent TarsosDSP library (written in Java). If you're looking for a far deeper set of tools than this, check out his work [on his website](https://0110.be/tags/TarsosDSP) or [on Github](https://github.com/JorenSix/TarsosDSP).
 
 Thanks to Aubio for his [YIN code](https://github.com/aubio/aubio/blob/master/src/pitch/pitchyin.c)
+
+## Local Development
+
+    npm install -D @types/node
+    tsc
